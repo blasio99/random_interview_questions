@@ -9,3 +9,7 @@ Interview questions from all around the world :)
 - q_set2 - problems description in prb1_1.jpg
   - prb1_1: frequency 'sort' - Python
   - prb1_2: hierarchy rendering - Python, Java
+
+- q_set3 - 10 Algorithms to solve before your Python coding interview
+  - reverse_integer - Python
+  - average_word_length - Python
